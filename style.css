@@ -1,0 +1,17 @@
+.text-mod{
+    color:aquamarine;
+    font-size: 50px;
+    background-color: black;
+}
+
+.box{
+    width: 200px;
+    height:200px;
+    background-color: blue;
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
